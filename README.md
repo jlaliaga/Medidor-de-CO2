@@ -8,5 +8,5 @@ Además del controlador y el sensor se usa un display o una pantalla con salída
 
 Se han usado las librerías:
 Sensor MH-Z19  https://github.com/piot-jp-Team/mhz19_uart 
-Display https://github.com/johnrickman/LiquidCrystal_I2C 
+Display https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library 
 Oled SH1106 https://github.com/durydevelop/arduino-lib-oled 
