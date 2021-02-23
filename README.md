@@ -10,3 +10,6 @@ Se han usado las librerías:
 Sensor MH-Z19  https://github.com/piot-jp-Team/mhz19_uart 
 Display https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library 
 Oled SH1106 ( https://github.com/wonho-maker/Adafruit_SH1106 , https://github.com/adafruit/Adafruit-GFX-Library , https://github.com/adafruit/Adafruit_BusIO )
+
+
+IMPORTANTE: ver la versión 2 que incorpora importantes mejoras (https://github.com/jlaliaga/Medidor-de-CO2/releases/tag/V2) 
